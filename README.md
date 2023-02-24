@@ -23,4 +23,4 @@ Having had no real formal programming education has lead me to apply for a spons
 <br>
 <br>
 <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![LinkedIn Logo](Linkedin-logo-icon-png.png)](https://www.linkedin.com/in/hakan-burcu/) &emsp;&emsp;&emsp;&emsp; [![HyperionDev Logo](HyperionDev-Light-Logo-Square.jpg)](https://www.hyperiondev.com/portfolio/113519/)&emsp;&emsp;&emsp;&emsp; [![Stackoverflow Logo](Stack_Overflow_icon.png)](https://stackoverflow.com/users/21280045/hak1979)
+&emsp;&emsp;[![LinkedIn Logo](Linkedin-logo-icon-png.png)](https://www.linkedin.com/in/hakan-burcu/) &emsp;&emsp;&emsp;&emsp; [![HyperionDev Logo](HyperionDev-Light-Logo-Square.jpg)](https://www.hyperiondev.com/portfolio/113519/)&emsp;&emsp;&emsp;&emsp; [![Stackoverflow Logo](Stack_Overflow_icon.png)](https://stackoverflow.com/users/21280045/hak1979)
